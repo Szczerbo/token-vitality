@@ -1,0 +1,4 @@
+.jumbotron {
+    min-height: calc(100vh - 94px) !important;
+    margin-bottom: 0px !important;
+}

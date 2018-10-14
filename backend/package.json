@@ -1,0 +1,19 @@
+{
+  "name": "token-vitalityn",
+  "version": "1.0.0",
+  "description": "token vitality server",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "jest --watch"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "jest": "^23.6.0",
+    "web3": "^1.0.0-beta.36"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "nodemon": "^1.18.4"
+  }
+}
